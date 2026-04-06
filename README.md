@@ -49,7 +49,11 @@ MIT License
 ---
 
 Készítette: [Tia]
+
+
 ---------------------------------------------------ENG-----------------------------------------------------
+
+
 # ESP32 EPROM Programmer
 
 Universal EPROM programmer based on ESP32 with a **fully terminal-based** user interface.  
@@ -105,7 +109,7 @@ Contains low-level commands:
 - Vpp voltage switching and control
 
 
-by Tia
+by [Tia]
 ---
 
 
