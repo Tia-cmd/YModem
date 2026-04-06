@@ -47,4 +47,3 @@ MIT License
 ---
 
 Készítette: [Tia]
-# YModem
